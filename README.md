@@ -1,4 +1,4 @@
-# User Account Management System
+# Password saver program
 
 This C++ program implements a simple user account management system. It allows users to register new accounts, log in, save and display passwords for their accounts. The program uses file I/O and the c++ filesystem library to manage user data.
 
